@@ -1,0 +1,204 @@
+sin0deg = ?
+0
+sin30deg = ?
+1/2
+sin45deg = ?
+sqrt(2)/2
+sin60deg = ?
+sqrt(3)/2
+sin90deg = ?
+1
+sin120deg = ?
+sqrt(3)/2
+sin135deg = ?
+sqrt(2)/2
+sin150deg = ?
+1/2
+sin180deg = ?
+0
+sin210deg = ?
+-1/2
+sin225deg = ?
+-sqrt(2)/2
+sin240deg = ?
+-sqrt(3)/2
+sin270deg = ?
+-1
+sin300deg = ?
+-sqrt(3)/2
+sin315deg = ?
+-sqrt(2)/2
+sin330deg = ?
+-1/2
+sin360deg = ?
+0
+cos0deg = ?
+1
+cos30deg = ?
+sqrt(3)/2
+cos45deg = ?
+sqrt(2)/2
+cos60deg = ?
+1/2
+cos90deg = ?
+0
+cos120deg = ?
+-1/2
+cos135deg = ?
+-sqrt(2)/2
+cos150deg = ?
+-sqrt(3)/2
+cos180deg = ?
+-1
+cos210deg = ?
+-sqrt(3)/2
+cos225deg = ?
+-sqrt(2)/2
+cos240deg = ?
+-1/2
+cos270deg = ?
+0
+cos300deg = ?
+1/2
+cos315deg = ?
+sqrt(2)/2
+cos330deg = ?
+sqrt(3)/2
+cos360deg = ?
+1
+tan0deg = ?
+0
+tan30deg = ?
+sqrt(3)/3
+tan45deg = ?
+1
+tan60deg = ?
+sqrt(3)
+tan90deg = ?
+undefined
+tan120deg = ?
+-sqrt(3)
+tan135deg = ?
+-1
+tan150deg = ?
+-sqrt(3)/3
+tan180deg = ?
+0
+tan210deg = ?
+sqrt(3)/3
+tan225deg = ?
+1
+tan240deg = ?
+sqrt(3)
+tan270deg = ?
+undefined
+tan300deg = ?
+-sqrt(3)
+tan315deg = ?
+-1
+tan330deg = ?
+-sqrt(3)/3
+tan360deg = ?
+0
+cot0deg = ?
+undefined
+cot30deg = ?
+sqrt(3)
+cot45deg = ?
+1
+cot60deg = ?
+sqrt(3)/3
+cot90deg = ?
+0
+cot120deg = ?
+-sqrt(3)/3
+cot135deg = ?
+-1
+cot150deg = ?
+-sqrt(3)
+cot180deg = ?
+undefined
+cot210deg = ?
+sqrt(3)
+cot225deg = ?
+1
+cot240deg = ?
+sqrt(3)/3
+cot270deg = ?
+0
+cot300deg = ?
+-sqrt(3)/3
+cot315deg = ?
+-1
+cot330deg = ?
+-sqrt(3)
+cot360deg = ?
+undefined
+sec0deg = ?
+1
+sec30deg = ?
+2sqrt(3)/3
+sec45deg = ?
+sqrt(2)
+sec60deg = ?
+2
+sec90deg = ?
+undefined
+sec120deg = ?
+-2
+sec135deg = ?
+-sqrt(2)
+sec150deg = ?
+-2sqrt(3)/3
+sec180deg = ?
+-1
+sec210deg = ?
+-2sqrt(3)/3
+sec225deg = ?
+-sqrt(2)
+sec240deg = ?
+-2
+sec270deg = ?
+undefined
+sec300deg = ?
+2
+sec315deg = ?
+sqrt(2)
+sec330deg = ?
+2sqrt(3)/3
+sec360deg = ?
+1
+csc0deg = ?
+undefined
+csc30deg = ?
+2
+csc45deg = ?
+sqrt(2)
+csc60deg = ?
+2sqrt(3)/3
+csc90deg = ?
+1
+csc120deg = ?
+2sqrt(3)/3
+csc135deg = ?
+sqrt(2)
+csc150deg = ?
+2
+csc180deg = ?
+undefined
+csc210deg = ?
+-2
+csc225deg = ?
+-sqrt(2)
+csc240deg = ?
+-2sqrt(3)/3
+csc270deg = ?
+-1
+csc300deg = ?
+-2sqrt(3)/3
+csc315deg = ?
+-sqrt(2)
+csc330deg = ?
+-2
+csc360deg = ?
+undefined

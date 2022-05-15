@@ -1,0 +1,37 @@
+You play a wizard defending the lands from monster hordes and the boss monsters. Hone your trigonometry skills and 
+face trials by the trigonometry gods to gain strength, however mistakes will come with a price! Your goal is to survive 30 waves 
+of monsters.
+---
+To move your character, you use the WASD keys: 
+W to move up, S to move down, D to move right, A to move left! 
+---
+Use the left mouse button to shoot and defeat enemies! You'll start with a simple weapon, the Mana Spell, which shoots a single mana shot, but you will 
+be able to gain upgrades for better weapons later on. You can upgrade the damage your projectiles deal through math trials!
+---
+Press P to pause the game! You will be able to see your stats and have the option to navigate back to your menu and lose your progress in the process 
+or return to the game or start a new attempt at the same difficulty.
+---
+Enemies shoot RED projectiles at you, which will damage you! Move around to avoid them!
+---
+Circle projectiles move in a straight line while diamond projectiles track and chase the player.
+---
+You can see your health bar in the top left corner of your screen! When your health reaches zero you lose!
+---
+Enemies will arrive in waves, fend them off to progress to the next wave! Upon reaching wave 30 you win!
+---
+Inbetween waves, you will be given a math trial which tests you on the main trignometric ratios!
+---
+If you correctly answer then you will be given a reward in the form of a upgrade or a new weapon!
+---
+If you answer incorrectly you will be punished with a downgrade to your stats, but don't fret, there is a lower limit so your stats can only fall so far.
+---
+Different enemies behave differently! Pay attention to their attack range and their bullet patterns to fight them!
+---
+Every 10 waves you will face a boss battle where significantly stronger enemies will appear to challenge your strength.
+---
+Once you reach the end at Wave 30 or run out of health, you will be met with a game over screen where you can see previous scores 
+and you will be given the choice to save your new score. Scores are rated based on the number of waves you survived, the 
+difficulty you played on and how quickly you completed the game.
+---
+In the menu, you will be able to select a difficulty out of { Novice = 70 starting health, Skilled = 30 health, Master = 20 health }. Novice is 
+recommended for new players. You can always change difficulty if you find the game too easy or too difficult.
